@@ -6,54 +6,33 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is Adya Shipekar. 😄
+Hi! Here are our group roles:
 
-| Role         | Name     | Repo Location                            | Stream                | Repo Name |
+| Role         | Name     | Personal Repo Locatio                    | Stream                | Repo Name |
 |--------------|----------|------------------------------------------|-----------------------|-----------|
-| Scrum Master | John     | github.com/jm1021/student                | upstream (OCS fork)   | student   |
-| Scrummer     | Adya     | github.com/AdyaShipekar/student          | downstream (fork)     | student   |
-| Scrummer     | Salma    | github.com/Salma-Zag/student             | downstream (fork)     | student   |
+| Scrum Master | Adya     | github.com/AdyaShipekar/student          | upstream (OCS fork)   | student   |
 | Scrummer     | Niharika | github.com/Niharika-Boyanapalli/student  | downstream (fork)     | student   |
+| Scrummer     | Salma    | github.com/Salma-Zag/student             | downstream (fork)     | student   |
+| Scrummer     | Sophie   | github.com/sophieh0143/student           | downstream (fork)     | student   |
+| Scrummer     | Anika    | github.com/Anika2317/student             | downstream (fork)     | student   |
+| Scrummer     | Dheeksha | github.com/DJforest589/student           | downstream (fork)     | student   |
 
 <br>
 
 ## Links to Learning
 
-### Development Environment
+### Tools and Equipment
 
-> Coding starts with tools, explore these tools and procedures with a click.
-
-<a href="https://github.com/Open-Coding-Society/student">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://open-coding-society.github.io/student">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white" alt="GitHub Pages">
-</a>
-<a href="https://kasm.opencodingsociety.com/" class="button small" style="background-color: #6b4bd3ff">
-    KASM
-</a>
-<a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
-    <span style="color: #FFFFFF">VSCODE</span>
-</a>
-
-<br>
-
-### Class Progress
-
-<a href="{{site.baseurl}}/snake" class="button small" style="background-color: #431cc3ff">
-    Snake Game
-</a>
-<a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #04550dff">
-    <span style="color: #ffffffff">Turtle</span>
-</a>
-
-<br>
+Team Troubleshooting Page:
 
 <!-- Contact Section -->
 ### Get in Touch
 
-> Feel free to reach out if you'd like to collaborate or learn more about our work.
+> For collaboration within the team if we ever need to contact one another:
+Adya: adya.shipekar1@gmail.com
+Salma: belugafishy1@gmail.com
+Niha: niharika.s.boyanapalli@gmail.com
+Anika:
+Sophie:
+Dheeksha:
 
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
-<p>Discord: @redridinghood</p>
-<p>Email: adyas45785@stu.powayusd.com</p>
