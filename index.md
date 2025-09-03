@@ -23,7 +23,9 @@ Hi! Here are our group roles:
 
 ### Tools and Equipment
 
-Team Troubleshooting Page:
+<a href="{{site.baseurl}}/tools/trouble" class="button small" style="background-color: #a41cc3ff">
+    Team Troubleshooting Guide
+<br>
 
 <!-- Contact Section -->
 ### Get in Touch
