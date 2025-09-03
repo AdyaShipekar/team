@@ -29,10 +29,10 @@ Team Troubleshooting Page:
 ### Get in Touch
 
 > For collaboration within the team if we ever need to contact one another:
-<br>Adya: adya.shipekar1@gmail.com
-<br>Salma: belugafishy1@gmail.com
-<br>Niha: niharika.s.boyanapalli@gmail.com
-<br>Anika:
-<br>Sophie:
-<br>Dheeksha:
+<br>- Adya: adya.shipekar1@gmail.com
+<br>- Salma: belugafishy1@gmail.com
+<br>- Niha: niharika.s.boyanapalli@gmail.com
+<br>- Anika:
+<br>- Sophie:
+<br>- Dheeksha:
 
