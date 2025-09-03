@@ -1,6 +1,6 @@
 ---
 layout: base
-title: I'm Adya Shipekar
+title: Our Team
 hide: true
 ---
 
@@ -29,10 +29,10 @@ Team Troubleshooting Page:
 ### Get in Touch
 
 > For collaboration within the team if we ever need to contact one another:
-Adya: adya.shipekar1@gmail.com
-Salma: belugafishy1@gmail.com
-Niha: niharika.s.boyanapalli@gmail.com
-Anika:
-Sophie:
-Dheeksha:
+<br>Adya: adya.shipekar1@gmail.com
+<br>Salma: belugafishy1@gmail.com
+<br>Niha: niharika.s.boyanapalli@gmail.com
+<br>Anika:
+<br>Sophie:
+<br>Dheeksha:
 
